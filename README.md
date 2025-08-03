@@ -93,5 +93,4 @@ Manually tested these endpoints using `curl`:
 ## 🤖 AI Usage
 
 - Tool: ChatGPT (OpenAI)
-- Used for: Refactoring guidance, code suggestions, validation logic
-- All AI-generated code was manually reviewed, tested, and modified
+- Used for: Refactoring guidance,validation logic
